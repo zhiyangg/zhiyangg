@@ -1,4 +1,6 @@
-### Hi there 👋
+## About Me
+- Aspiring Software Engineer
+- Studying Computer Engineering at the University of Toronto
 
 <!--
 **zhiyangg/zhiyangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
