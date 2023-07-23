@@ -7,7 +7,7 @@
 &#10687; JavaScript &emsp; 
 &#10687; React.js &emsp; 
 <br/>
-&#10687; EJS &emsp;&emsp;&emsp;&emsp;&nbsp; 
+&#10687; Express &emsp;&emsp;&emsp;&emsp;&nbsp; 
 &#10687; C/C++ &emsp; 
 
 
