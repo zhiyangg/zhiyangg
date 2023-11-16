@@ -5,11 +5,12 @@
 ## Skills
 ### Programming Languages
 - C/C++ 
-- Python (Currently learning) 
+- Python
 
 ### Web Development
 - HTML/CSS 
-- JavaScript 
+- JavaScript
+- TypeScript
 - React.js 
 
 ### Backend Development
