@@ -1,19 +1,5 @@
-## About Me
-- Aspiring Software Engineer
-- Studying Computer Engineering at the University of Toronto
-
-## Skills
-### Programming Languages
-- C/C++ 
-- Python
-
-### Web Development
-- HTML/CSS 
-- JavaScript
-- TypeScript
-- React.js 
-
-### Backend Development
-- Node.js 
-- Express.js 
-- MongoDB 
+## Hi! I'm Zhi Yang
+- 🏫 I'm studying Computer Engineering at the University of Toronto
+- 🇨🇦 I work as a GPU Driver engineer @ AMD in Markham
+- 🏎️ I'm passionate about cars and gaming
+- 💻 Right now I'm working on... updating my personal website
