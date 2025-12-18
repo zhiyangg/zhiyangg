@@ -1,4 +1,10 @@
-## Hi! I'm Zhi Yang
-- 🏫 I'm studying Computer Engineering at the University of Toronto
-- 🇨🇦 I work as a GPU Graphics Driver Engineer @ AMD in Markham
-- 🏎️ I'm passionate about cars and gaming
+<h2 align="center">Hi, I'm Zhi Yang!</h2>
+
+<p align="center">
+  🏫 Computer Engineering @ University of Toronto<br/>
+  🇨🇦 Software Engineer from Canada
+</p>
+
+<p align="center">
+  <a href="https://zhiyangchen.dev">zhiyangchen.dev</a>
+</p>
