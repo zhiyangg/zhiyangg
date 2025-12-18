@@ -6,5 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zhiyangchen.dev">zhiyangchen.dev</a>
+  <a href="https://zhiyangchen.dev" target="_blank" rel="noopener noreferrer">
+    zhiyangchen.dev
+  </a>
 </p>
