@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Engineering @ University of Toronto<br/>
-  Software Engineer in Canada
+  Software Engineer from Canada
 </p>
 
 <p align="center">
